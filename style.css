@@ -41,3 +41,34 @@ button {
 button:hover {
     background-color: #128C7E; /* होवर पर थोड़ी डार्क शेड */
 }
+nav {
+    background-color: #004d40; /* एमराल्ड ग्रीन */
+    padding: 15px 0;
+    position: sticky;
+    top: 0;
+    width: 100%;
+    z-index: 1000;
+}
+
+nav ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    display: flex;
+    justify-content: center;
+}
+
+nav ul li {
+    margin: 0 15px;
+}
+
+nav ul li a {
+    color: white;
+    text-decoration: none;
+    font-weight: bold;
+    font-size: 16px;
+}
+
+nav ul li a:hover {
+    color: gold; /* गोल्ड एक्सेंट होवर पर */
+}
