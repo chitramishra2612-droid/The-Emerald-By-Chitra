@@ -123,38 +123,16 @@ section#pricing h2 {
     font-size: 18px;
     margin: 5px 0;
 }
-section#portfolio {
-    background-color: #ffffff;
+
+section#testimonials {
+    background-color: #e0f2f1;
     padding: 60px 20px;
     text-align: center;
 }
 
-section#portfolio h2 {
+section#testimonials h2 {
     font-size: 32px;
     margin-bottom: 40px;
-}
-
-.portfolio-item {
-    display: inline-block;
-    width: 250px;
-    margin: 20px;
-    vertical-align: top;
-}
-
-.portfolio-item img {
-    width: 100%;
-    height: auto;
-    border-radius: 8px;
-}
-
-.portfolio-item h3 {
-    margin-top: 15px;
-    font-size: 20px;
-}
-
-.portfolio-item p {
-    font-size: 16px;
-    margin-top: 10px;
 }
 section#testimonials {
     background-color: #e0f2f1;
