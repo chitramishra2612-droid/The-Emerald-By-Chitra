@@ -166,3 +166,4 @@ section#testimonials h2 {
     font-size: 16px;
     color: #555;
 }
+.instagram-section { text-align:center; margin:40px 0;} .instagram-btn { display:inline-block; background:#E1306C; color:#fff; padding:14px 28px; border-radius:8px; text-decoration:none; font-weight:600; transition:0.3s;} and optionally .instagram-btn:hover { background:#C13584; transform: translateY(-2px);}
