@@ -27,3 +27,17 @@ footer {
     width: 100%;
     text-align: center;
 }
+button {
+    background-color: #25D366; /* WhatsApp का रंग */
+    color: white;
+    border: none;
+    padding: 15px 25px;
+    font-size: 16px;
+    cursor: pointer;
+    border-radius: 5px;
+    margin-top: 20px;
+}
+
+button:hover {
+    background-color: #128C7E; /* होवर पर थोड़ी डार्क शेड */
+}
