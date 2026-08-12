@@ -156,3 +156,35 @@ section#portfolio h2 {
     font-size: 16px;
     margin-top: 10px;
 }
+section#testimonials {
+    background-color: #e0f2f1;
+    padding: 60px 20px;
+    text-align: center;
+}
+
+section#testimonials h2 {
+    font-size: 32px;
+    margin-bottom: 40px;
+}
+
+.testimonial-item {
+    background: white;
+    border: 1px solid #ddd;
+    display: inline-block;
+    width: 300px;
+    margin: 20px;
+    padding: 20px;
+    border-radius: 8px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+}
+
+.testimonial-item p {
+    font-style: italic;
+    font-size: 18px;
+    margin-bottom: 15px;
+}
+
+.testimonial-item h4 {
+    font-size: 16px;
+    color: #555;
+}
